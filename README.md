@@ -1,2 +1,2 @@
 # demo
-my demo project using html and css
+my demo project using html and css and javascript
